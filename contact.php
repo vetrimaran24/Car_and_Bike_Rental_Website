@@ -682,8 +682,8 @@
 					</td>
 					<td class="widget">
 						<p class="text1">Address: Tamil Nadu,India<br>
-						<img src="images/phone.png">&emsp;+91-7305010188<br>
-						<img src="images/message.png">&emsp;danieldavidraj23@gmail.com</p>
+						<img src="images/phone.png">&emsp;+91-8428840854<br>
+						<img src="images/message.png">&emsp;vetrimaran24vx@gmail.com</p>
 					</td>
 				</tr>
 				<tr bgcolor="black">
